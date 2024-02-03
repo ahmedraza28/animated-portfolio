@@ -26,6 +26,12 @@ const items = [
     title: "POS Application",
     img:  "/POSZ.jpeg",
     desc: "This efficient and user-friendly solution simplifies transactions, inventory management, and sales tracking for businesses. Designed to streamline operations and enhance customer experiences, the POS application reflects my dedication to creating impactful and scalable software solutions for modern businesses.",
+  },
+  {
+    id: 5,
+    title: "PayPal Home Page Redesign",
+    img:  "/PayPal.png",
+    desc: "Introducing a fresh and captivating redesign of the PayPal homepage, where innovation meets user-centric design. With a focus on seamless navigation and an aesthetically pleasing interface, this project elevates the user experience to new heights. The revamped homepage effortlessly combines functionality and visual appeal, creating a welcoming gateway to the world of secure and convenient online transactions. ",
   }
 ];
 
