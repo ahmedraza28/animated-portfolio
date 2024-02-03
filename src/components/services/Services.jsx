@@ -36,8 +36,8 @@ const Services = () => {
     >
       <motion.div className="textContainer" variants={variants}>
         <p>
-          I focus on helping your brand grow
-          <br /> and move forward
+        I design and develop websites that breathe life into your brand,
+          <br /> ensuring a dynamic online presence
         </p>
         <hr />
       </motion.div>
@@ -52,7 +52,7 @@ const Services = () => {
           <h1>
             <motion.b whileHover={{color:"orange"}}>For Your</motion.b> Business.
           </h1>
-          <button>WHAT WE DO?</button>
+          <button>WHAT I DO?</button>
         </div>
       </motion.div>
       <motion.div className="listContainer" variants={variants}>
@@ -60,12 +60,12 @@ const Services = () => {
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Branding</h2>
+          <h2>Web Development</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
+          Transforming concepts into fully functional and visually stunning websites,
+          my web development services ensure a seamless user experience
+          and robust online presence. From sleek portfolio sites to dynamic e-commerce platforms,
+          I bring your digital vision to life.
           </p>
           <button>Go</button>
         </motion.div>
@@ -73,12 +73,12 @@ const Services = () => {
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Branding</h2>
+          <h2>Graphic Design</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
+          Elevate your brand with captivating visual elements through my graphic design services.
+          From logos to marketing materials, I create compelling designs that resonate with your
+          audience and leave a lasting impression.
+
           </p>
           <button>Go</button>
         </motion.div>
@@ -86,12 +86,10 @@ const Services = () => {
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Branding</h2>
+          <h2>UI Design</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
+          Unleash the potential of user-centered design with my UI Design services. From wireframes to interactive prototypes,
+          I ensure an intuitive and aesthetically pleasing user interface that enhances user engagement and brings your digital products to life.
           </p>
           <button>Go</button>
         </motion.div>
@@ -99,12 +97,12 @@ const Services = () => {
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Branding</h2>
+          <h2>Content Writing and Copywriting</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
+          Harness the power of words with my content writing and copywriting expertise.
+          I craft engaging website content, blog posts, and marketing copy that not only
+          informs but also inspires action, connecting your brand with your target audience.
+          
           </p>
           <button>Go</button>
         </motion.div>
